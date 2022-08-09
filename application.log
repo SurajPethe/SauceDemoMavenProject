@@ -1,0 +1,21 @@
+2022-08-06 03:16:05,198  INFO [main] SauceDemoMavenProject:62 - URL is opened
+2022-08-06 03:16:08,955  INFO [main] SauceDemoMavenProject:23 - Logout Functionality
+2022-08-06 03:16:09,154  INFO [main] SauceDemoMavenProject:27 - Click on Option button
+2022-08-06 03:16:42,210  INFO [main] SauceDemoMavenProject:80 - Driver is closed
+2022-08-06 03:16:54,266  INFO [main] SauceDemoMavenProject:36 - Browser is opened
+2022-08-06 03:16:58,703  INFO [main] SauceDemoMavenProject:39 - Chrome Browser is maximized
+2022-08-06 03:17:10,451  INFO [main] SauceDemoMavenProject:62 - URL is opened
+2022-08-06 03:17:11,142  INFO [main] SauceDemoMavenProject:20 - Home Page Functionality
+2022-08-06 03:17:12,683  INFO [main] SauceDemoMavenProject:28 - First Product selected
+2022-08-06 03:17:16,544  INFO [main] SauceDemoMavenProject:80 - Driver is closed
+2022-08-06 03:17:22,483  INFO [main] SauceDemoMavenProject:36 - Browser is opened
+2022-08-06 03:17:22,628  INFO [main] SauceDemoMavenProject:39 - Chrome Browser is maximized
+2022-08-06 03:17:30,572  INFO [main] SauceDemoMavenProject:62 - URL is opened
+2022-08-06 03:17:31,038  INFO [main] SauceDemoMavenProject:18 - Login Functionality
+2022-08-06 03:17:31,598  INFO [main] SauceDemoMavenProject:80 - Driver is closed
+2022-08-06 03:17:37,300  INFO [main] SauceDemoMavenProject:36 - Browser is opened
+2022-08-06 03:17:37,439  INFO [main] SauceDemoMavenProject:39 - Chrome Browser is maximized
+2022-08-06 03:17:46,587  INFO [main] SauceDemoMavenProject:62 - URL is opened
+2022-08-06 03:17:47,149  INFO [main] SauceDemoMavenProject:17 - Multi Product Functionality
+2022-08-06 03:17:50,534  INFO [main] SauceDemoMavenProject:80 - Driver is closed
+ 
